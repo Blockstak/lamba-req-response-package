@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="lambdakit-response",
+    name="lambda-request-response",
     version="1.0.0",
     description="Lightweight response utility for AWS Lambda proxy integration",
     author="blockstak",
